@@ -11,8 +11,7 @@ This project is a practice exercise to demonstrate the usage of the pandas Pytho
 - [Data](#data)
 - [Project Structure](#project-structure)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
