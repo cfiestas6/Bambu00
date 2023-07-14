@@ -1,4 +1,4 @@
-# Project Name: College Majors Salary Analysis
+# Project Name: College Majors Salaries Analysis
 
 This project is a practice exercise to demonstrate the usage of the pandas Python library for data analysis. The objective is to read and compare data related to college majors and their corresponding salaries. The project focuses on analyzing the risk and potential associated with different majors in terms of their salaries.
 
